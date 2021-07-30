@@ -1,9 +1,11 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
+const readMaker = require('./read/readme-template');
 const inquirer = require('inquirer');
 
 // TODO: Create an array of questions for user input
 const userQuestions = () => {
+
     return inquirer.prompt([
         {
             type: 'input',
@@ -35,12 +37,7 @@ const userQuestions = () => {
             name: 'contents',
             message: 'What would you like to include in you table of contents? (Check all that apply)',
             choices: ['Installation', 'Usage', 'License', 'Contributing', 'Tests', 'Questions']
-        }
-    ]);
-};
-
-const contentQuestions = () => {
-    return inquirer.prompt([
+        },
         {
             type: 'input',
             name: 'install',
@@ -92,23 +89,11 @@ const contentQuestions = () => {
 
 userQuestions()
     .then(answers => console.log(answers))
-    .then(contentQuestions)
-    .then(contentAnswers => console.log(contentAnswers));
 // TODO: Create a function to write README file;
-const readMaker = (title, contirbutor) => {
-    return `
-        Title: ${title}
-        Contributor: ${contirbutor}
-    `;
-}
 
-function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {}
 
 // Function call to initialize app
 init();
-
-console.log(readMaker('Mary', 'Joseph'));
- 
