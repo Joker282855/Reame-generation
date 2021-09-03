@@ -1,8 +1,13 @@
-module.exports = readmeData => {
-    console.log(readmeData);
-
+function readMaker(info) {
     return `
-        'Title: ${readmeData.title}
-        Table of Contents: ${readmeData.about}
-    `;
-};
+    
+    # ${info.title}
+    # Description
+    ${info.how}
+    ${info.motivation}
+    ${info.interest}
+    # Table of Contents
+    `
+}
+
+module.exports = readMaker;
