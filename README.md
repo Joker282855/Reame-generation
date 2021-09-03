@@ -29,5 +29,5 @@
         This section will contain information on the different type of tests people can use to make sure the application works
 
         ## Questions
-        This section will be for personal questions about me as a developer airbudhub
+        This section will be for personal questions about me as a developer bobhub
     
