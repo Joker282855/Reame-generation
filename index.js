@@ -1,11 +1,12 @@
 // TODO: Include packages needed for this application
-const fs = require('fs');
+const fs = require('fs')
 const readMaker = require('./read/readme-template');
 const inquirer = require('inquirer');
-const readmeDataArgs = process.argv.slice(2, process.argv.legnth);
+const readMe = require('./src/readme-template.js')
 
-const read = readmeDataArgs[0];
-const github = readmeDataArgs[1];
+const readmeDataArgs = process.argv.slice(2);
+
+const [read, github] = readmeDataArgs;
 
 // TODO: Create an array of questions for user input
 // const userQuestions = () => {
