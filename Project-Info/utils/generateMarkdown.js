@@ -13,6 +13,9 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
+  # Badge:
+  [![https://img.shields.io/github/${data.license}/Joker282855/Reame-generation?style=flat-square]](https://github.com/Joker282855/Reame-generation)
+
   # Title: ${data.title}
   
   # Description
@@ -38,6 +41,7 @@ function generateMarkdown(data) {
 
   # License
   The license this application use is ${data.license}
+
 
   # Contributing 
   To contirbute to the project follow these instructions:
