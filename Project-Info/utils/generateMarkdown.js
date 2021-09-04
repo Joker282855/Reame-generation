@@ -51,7 +51,7 @@ function generateMarkdown(data) {
   # Questions
   https://github.com/${data.github}
   
-  ${data.email}
+  https://www.${data.email}
   If you have any additional questions on how to reach me come visit my office at Utah Valley University. My room number is 223 on the second floor of the Liberal Arts building.
   My office hours are between 12:00-1:00 on on Monday, Tuesday, and Wednesday. My office hours are 3:00 t0 5:00 on Firday, and Satureday. You are able to walk into my office on Mondays,
   Tuesdays, and Wednesdays during office hours. Thursdays and Fridays are appointments only if you want to come talk with me during office hours. Appointments can be made on the 
