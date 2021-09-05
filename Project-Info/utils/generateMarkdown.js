@@ -14,7 +14,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `
   # Badge:
-  [![${data.license} License](https://img.shields.io/github/${data.license}/Joker282855/Reame-generation)](https://github.com/Joker282855/Reame-generation)
+  [${data.license} License](https://img.shields.io/github/${data.license}/Joker282855/Reame-generation)](https://github.com/Joker282855/Reame-generation)
 
   # Title: ${data.title}
   
