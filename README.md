@@ -16,7 +16,6 @@
 
   # Installation
   Read the instructions below to know how to install the application on your computer:
-  undefined
 
   # Usage
   Here are instructions on how ot use the application: 
