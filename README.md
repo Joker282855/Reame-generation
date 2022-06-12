@@ -19,11 +19,11 @@
 
   # Installation
   Read the instructions below to know how to install the application on your computer:
-  The first thing you need to do is install visual studio code onto your computer. You can find a version to download for your computer by searching for the visual studio code website in google. The second thing you need to do is follow the link to my githubprofile and clik on the repository called Readme-generation to download the code. After that you are all done.
+  nwow
 
   # Usage
   Here are instructions on how ot use the application: 
-  To use this application correctly a person will need to contact the police if they find a person who has aboandoned their pet. If you are a policmen than you use the app to track down people who have abondoned their pets
+  nwow
 
   # License
   The license this application use is MIT
@@ -31,17 +31,17 @@
 
   # Contributing 
   To contirbute to the project follow these instructions:
-  They need to ask me to be a colloborator so they have access to the code in the respository. Once he or she is a colllaborator they can make adjustments to the code and improve the application
+  nwow
 
   # Tests
   The type of tests to run on this application are listed below along with a description on how to run them.
-  node index.js
-  Open a ternminal in visual studio code and then run the command node index.js
+  nwow
+  wnow
 
   # Questions
-  https://github.com/Joker282855
+  https://github.com/wnow
   
-  https://www.jtjackson325@gmail.com
+  https://www.wnow
   If you have any additional questions on how to reach me come visit my office at Utah Valley University. My room number is 223 on the second floor of the Liberal Arts building.
   My office hours are between 12:00-1:00 on on Monday, Tuesday, and Wednesday. My office hours are 3:00 t0 5:00 on Firday, and Satureday. You are able to walk into my office on Mondays,
   Tuesdays, and Wednesdays during office hours. Thursdays and Fridays are appointments only if you want to come talk with me during office hours. Appointments can be made on the 
