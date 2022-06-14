@@ -15,11 +15,12 @@
   -[Questions](#questions)
 
   # Installation
-  Read the instructions below to know how to install the application on your computer:
+  The programs software you need to install on your computer to run this program are Visual Studio Code. Go to the Visual Studio Code Website and 
 
   # Usage
   Here are instructions on how ot use the application: 
-  This application is used to create a read me. To use this application you have to run the command npm start when you open up visual studio code. The next thing you need to do is fill out all of the questions
+  This application is used to create a read me. To use this application you have to run the command npm start when you open up visual studio code. The next thing you need to do is fill out all of the questions on
+  the prompt and the Readme file will be generated once the questions are done being answered.
 
   # License
   The license this application use is ISC
