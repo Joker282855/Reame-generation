@@ -38,7 +38,7 @@
   As mentioned before I tested out the code for this Readme file by occassionaly running through the prompts as they were coded for each section of the readme. All a person needs to do to test out this application for themselves is type the command node index.js in their Visual Studio Code command line. This command allows he or she to go through the prompts and make sure they work. 
 
   # Questions
-  https://github.com/My github username is Joker282855
+  https://github.com/Joker282855
   
   My email address is jtjackson325@gmail.com
   If you have any additional questions on how to reach me come visit my office at Utah Valley University. My room number is 223 on the second floor of the Liberal Arts building.
