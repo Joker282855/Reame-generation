@@ -1,6 +1,5 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
-const readMaker = require('./read/readme-template');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./Project-Info/utils/generateMarkdown');
 
