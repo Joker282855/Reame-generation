@@ -47,6 +47,7 @@ function generateMarkdown(data) {
   To contirbute to the project follow these instructions:
   ${data.contribution}
 
+
   # Tests
   The type of tests to run on this application are listed below along with a description on how to run them.
   ${data.tests}
